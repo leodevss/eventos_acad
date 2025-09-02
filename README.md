@@ -23,7 +23,7 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento local.
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/leodevss/eventos_acad
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
