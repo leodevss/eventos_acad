@@ -6,7 +6,7 @@ Este é um sistema de gestão de eventos acadêmicos, onde os usuários podem se
 
 *   PHP 8.2
 *   Laravel 11
-*   SQLite
+*   MySQL
 *   Tailwind CSS
 
 ## Primeiros Passos
